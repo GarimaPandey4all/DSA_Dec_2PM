@@ -1,0 +1,63 @@
+C Programming Language:
+
+Programming: Set of instructions / statements
+
+Language: Medium of Communication
+
+C (Source Code, .c) Compiler/Translator		Computer
+English 					Binary (2: 0 or 1)
+High Level Language				Low Level Language
+
+Compiler: English to Binary
+HLL to LLL
+LLL to HLL
+
+Computer ---> Binary
+
+Computer ---> Electronic Device ---> current flow (1)---> No current flow(0)
+
+Data Structures:
+
+1. Linear DS
+a) Array
+b) Linked List
+c) Stack
+d) Queue
+e) Hashing
+
+2. Non-Linear DS
+a) Tree
+b) Graph
+
+Searching: 
+Linear, Binary
+
+Linear search
+search = 78
+
+array indexing: 0 to size - 1
+10, 15, 23, 56, 78, 100, 150
+index = 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
